@@ -2,6 +2,8 @@
 import os
 import random
 import discord
+import json
+import requests
 from dotenv import load_dotenv
 
 load_dotenv()
