@@ -1,4 +1,5 @@
 import random
+import numpy as pynum
 
 from datetime import datetime
 import time 
@@ -21,5 +22,5 @@ def get_response(message: str) -> str:
 
     return 'I didn\'t understand what you wrote. Try typing "!help".'
 def get_intresponse(message:int) -> int:
-    
+    return matrix9
     
